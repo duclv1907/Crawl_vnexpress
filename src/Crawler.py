@@ -23,4 +23,4 @@ with open("D:\DATA_NEWS\Book1.csv") as f:
         sor = open(path, "w", encoding="utf8")
         sor.write(a)
         sor.close()
-print("ok")
+
